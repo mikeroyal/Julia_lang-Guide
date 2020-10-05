@@ -67,3 +67,15 @@
 [PyCall.jl](https://github.com/JuliaPy/PyCall.jl) is a package that allows you to call Python functions from Julia.
 
 [MXNet.jl](https://github.com/dmlc/MXNet.jl) is the Apache MXNet Julia package. MXNet.jl brings flexible and efficient GPU computing and state-of-art deep learning to Julia.
+
+[Knet](https://denizyuret.github.io/Knet.jl/latest) is the [Koç University deep](http://www.ku.edu.tr/en) learning framework implemented in Julia by [Deniz Yuret](https://www.denizyuret.com/) and collaborators. It supports GPU operation and automatic differentiation using dynamic computational graphs for models defined in plain Julia.
+
+[Distributions.jl](https://github.com/JuliaStats/Distributions.jl) is a Julia package for probability distributions and associated functions. 
+
+[DataFrames.jl](http://juliadata.github.io/DataFrames.jl/stable/) is a tool for working with tabular data in Julia.
+
+[Flux.jl](https://fluxml.ai/) is an elegant approach to machine learning. It's a 100% pure-Julia stack, and provides lightweight abstractions on top of Julia's native GPU and AD support.
+
+[IRTools.jl](https://github.com/FluxML/IRTools.jl) is a simple and flexible IR format, expressive enough to work with both lowered and typed Julia code, as well as external IRs.
+
+[Cassette.jl](https://github.com/jrevels/Cassette.jl) is a Julia package that provides a mechanism for dynamically injecting code transformation passes into Julia’s just-in-time (JIT) compilation cycle, enabling post hoc analysis and modification of "Cassette-unaware" Julia programs without requiring manual source annotation or refactoring of the target code.
