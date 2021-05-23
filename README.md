@@ -6,6 +6,15 @@
 
 #### A guide covering Julia programming language including the applications and tools that will make you a better and more efficient Julia developer.
 
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/119279008-e0495180-bbdd-11eb-8487-f4904508b425.png">
+  <br />
+</p>
+
+# Julia Learning Resources
+
 [Julia](https://julialang.org) is a high-level, [high-performance](https://julialang.org/benchmarks/) dynamic language for technical computing. Julia programs compile to efficient native code for [multiple platforms](https://julialang.org/downloads/#support_tiers) via LLVM.
 
 [JuliaHub](https://juliahub.com/) contains over 4,000 Julia packages for use by the community.
@@ -30,11 +39,11 @@
 
 [Julia on Microsoft Azure](https://juliacomputing.com/media/2017/02/08/azure.html)
 
-## Tools
+# Julia Tools, Libraries and Frameworks
 
 [JuliaPro](https://juliacomputing.com/products/juliapro.html) is a free and fast way to setup Julia for individual researchers, engineers, scientists, quants, traders, economists, students and others. Julia developers can build better software quicker and easier while benefiting from Julia's unparalleled high performance. It includes 2600+ open source packages or from a curated list of 250+ JuliaPro packages. Curated packages are tested, documented and supported by Julia Computing.
 
-[Juno](https://junolab.org) is a powerful, free IDE based on [Atom]() for the Julia language.
+[Juno](https://junolab.org) is a powerful, free IDE based on [Atom](https://atom.io/) for the Julia language.
 
 [Debugger.jl](https://github.com/JuliaDebug/Debugger.jl) is the Julia debuggin tool.
 
@@ -79,3 +88,12 @@
 [IRTools.jl](https://github.com/FluxML/IRTools.jl) is a simple and flexible IR format, expressive enough to work with both lowered and typed Julia code, as well as external IRs.
 
 [Cassette.jl](https://github.com/jrevels/Cassette.jl) is a Julia package that provides a mechanism for dynamically injecting code transformation passes into Julia’s just-in-time (JIT) compilation cycle, enabling post hoc analysis and modification of "Cassette-unaware" Julia programs without requiring manual source annotation or refactoring of the target code.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Julia_lang-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
